@@ -8,42 +8,37 @@ share-img: /assets/img/path.jpg
 
 Chăm sóc vết thương tại nhà đúng cách giúp vết thương nhanh lành, giảm nguy cơ nhiễm trùng và để lại sẹo. 
 
-Dưới đây là quy trình chi tiết để chăm sóc vết thương tại nhà:
-
-### Chuẩn bị dụng cụ và vệ sinh tay
-Dụng cụ cần thiết:
-- Gạc vô trùng.
-- Băng dính y tế.
+# Quy trình chăm sóc và theo dõi vết thương tại nhà
+## Chuẩn bị dụng cụ cần thiết:
+- Bộ dụng cụ thay băng ( nếu có )
+- Băng, gạc vô trùng.
 - Dung dịch sát khuẩn (như nước muối sinh lý, dung dịch povidone-iodine, hoặc cồn 70 độ).
-- Kéo sạch.
-- Găng tay y tế (nếu có).
-Vệ sinh tay: Rửa tay sạch bằng xà phòng và nước hoặc sử dụng dung dịch sát khuẩn tay trước khi tiếp xúc với vết thương.
+- Rửa tay sạch
 
-### Làm sạch vết thương
-- Rửa vết thương bằng nước sạch: Loại bỏ bụi bẩn, dị vật (nếu có).
-- Sử dụng dung dịch sát khuẩn: Nhẹ nhàng lau vết thương bằng gạc tẩm dung dịch sát khuẩn, lau từ trong ra ngoài để tránh đưa vi khuẩn vào vết thương.
-- Lau khô: Dùng gạc sạch thấm khô vết thương.
+ "/assets/img/DC.png"
+  
+## Trước khi chăm sóc vết thương, rửa tay bằng xà phòng và nước sạch để tránh nhiễm trùng.
+## Làm sạch vết thương
+•	Dùng nước muối sinh lý hoặc dung dịch sát khuẩn như dung dịch povidone-iodine, hoặc cồn 70 độ để rửa sạch vết thương.
 
-### Băng vết thương
-Chọn loại băng phù hợp:
-- Vết thương nhỏ, khô: Có thể để hở hoặc dùng băng dính y tế.
-- Vết thương lớn, có dịch: Dùng gạc vô trùng và băng dính y tế để che phủ.
-- Thay băng định kỳ: Thay băng hàng ngày hoặc khi băng bị ướt, bẩn.
+•	Không sử dụng cồn hoặc hydrogen peroxide vì có thể làm tổn thương mô và gây đau.
 
-### Theo dõi vết thương
-**Kiểm tra dấu hiệu nhiễm trùng**:
+## Thay băng vết thương
+•	Sau khi làm sạch vết thương dùng gạc sạch thấm khô vết thương.
 
-- Sưng, đỏ, nóng, đau tăng lên.
-- Xuất hiện mủ hoặc dịch có mùi hôi.
-- Sốt hoặc cảm giác mệt mỏi.
-- Theo dõi tiến triển: Vết thương nên khô dần và lành lại sau vài ngày.
+•	Sử dụng băng gạc vô trùng để che phủ vết thương, có thể chọn băng phù hợp với loại vết thương 
+      + Vết thương nhỏ, khô: Có thể để hở hoặc dùng băng dính y tế.
+      + Vết thương lớn, có dịch: Dùng gạc vô trùng và băng dính y tế để che phủ.
+      
+•	Thay băng định kỳ: Thay băng hàng ngày hoặc khi băng bị ướt, bẩn.
 
-### Khi nào cần gặp bác sĩ?
-- Vết thương không cải thiện sau vài ngày.
-- Xuất hiện dấu hiệu nhiễm trùng.
-- Vết thương sâu, chảy nhiều máu, hoặc do vật sắc nhọn gây ra (có nguy cơ nhiễm uốn ván).
-- Không chắc chắn về cách xử lý vết thương.
+## Theo dõi tình trạng vết thương
+•	Theo dõi các dấu hiệu nhiễm trùng như đỏ, sưng, mủ, hoặc có mùi hôi. 
 
-### Lưu ý:
-Không tự ý dùng thuốc kháng sinh hoặc thuốc bôi mà không có chỉ định của bác sĩ.
-Đối với vết thương lớn hoặc nghiêm trọng, hãy đến cơ sở y tế để được xử lý đúng cách.
+•	Chú ý đến quá trình lành vết thương, nếu vết thương không lành hoặc có dấu hiệu bất thường, cần tái khám ngay (liên hệ với nhân viên y tế).
+
+## Duy trì vệ sinh vùng xung quanh vết thương
+- Làm sạch vùng da xung quanh vết thương bằng nước sạch và xà phòng nhẹ để tránh nhiễm trùng từ khu vực ngoài.
+# Lưu ý:
+- Không tự ý dùng thuốc kháng sinh hoặc thuốc bôi mà không có chỉ định của bác sĩ 
+- Tránh để vết thương bị va chạm mạnh, cọ xát hoặc tiếp xúc với nước bẩn.
