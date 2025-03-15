@@ -11,7 +11,9 @@ Phương pháp này giúp loại bỏ dịch viêm, tăng cường tuần hoàn 
 
 ### video
 
-Hệ thống máy hút áp lực âm [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29)
+Hệ thống máy hút áp lực âm [xem video](https://www.youtube.com/watch?v=2-9p-uYjFE4)
+
+Hệ thống máy hút áp lực âm [xem video](https://www.youtube.com/watch?v=ChYVGQU0oVw)
 
 Liệu pháp hút áp lực âm được thực hiện bằng cách đặt miếng xốp trên vết thương, được bọc kín bởi miếng dán opsite và nối với máy hút áp lực âm qua hệ thống dây dẫn kín. 
 
@@ -23,5 +25,5 @@ Phương pháp này có tác dụng chính là cải thiện lưu lượng tư�
 
 ### video
 
-Cơ chế hoạt động của liệu pháp hút áp lực âm [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29)
+Cơ chế hoạt động của liệu pháp hút áp lực âm [xem video](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29)
 
