@@ -11,7 +11,7 @@
 
 # Name of website
 title: CHĂM SÓC VẾT THƯƠNG
-cover-img: /assets/img/k1.jpg
+
 
 # Your name to show in the footer
 author: Khoa Dieu Duong
@@ -135,6 +135,7 @@ navbar-var-length: false
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
+cover-img: /assets/img/k1.jpg
 page-col: "#FFFFFF"
 text-col: "#404040"
 link-col: "#008AFF"
