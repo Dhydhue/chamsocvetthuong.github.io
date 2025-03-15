@@ -15,7 +15,7 @@ Chăm sóc vết thương tại nhà đúng cách giúp vết thương nhanh là
 - Dung dịch sát khuẩn (như nước muối sinh lý, dung dịch povidone-iodine, hoặc cồn 70 độ).
 - Rửa tay sạch
 
- "/assets/img/DC.png"
+ ![Dụng cụ y tế](/assets/img/DC.png)
   
 ## Trước khi chăm sóc vết thương, rửa tay bằng xà phòng và nước sạch để tránh nhiễm trùng.
 ## Làm sạch vết thương
