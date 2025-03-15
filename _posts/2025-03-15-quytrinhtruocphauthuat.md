@@ -26,6 +26,7 @@ author:
 - Nếu có bảo hiểm y tế: bệnh nhân tạm ứng viện phí theo quy định mức hưởng.
 - Nếu không có bảo hiểm: bệnh nhân tạm ứng một khoản viện phí theo yêu cầu của bệnh viện.
 - Nhận biên lai tạm ứng và hoàn tất thủ tục.
+
 ## 4. Tại khoa điều trị:
 -	Tại quầy đón tiếp điều dưỡng nhận bệnh
 -	Hướng dẫn người bệnh đến giường bệnh 
@@ -33,6 +34,7 @@ author:
 -	Hướng dẫn chế độ dinh dưỡng, vệ sinh cá nhân
 -	Bác sĩ và điều dưỡng kiểm tra lại tình trạng bệnh, lên kế hoạch điều trị.
 -	Dặn dò người bệnh thời gian lấy máu xét nghiệm, bổ sung các xét nghiệm cận lâm sàng theo hướng dẫn nhân viên y tế.
+
 ## 5. Bắt đầu quá trình điều trị
 Người bệnh được theo dõi và điều trị theo phác đồ của bác sĩ.
 Điều dưỡng chăm sóc, hướng dẫn sinh hoạt trong thời gian nằm viện.
