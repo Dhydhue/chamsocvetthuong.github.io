@@ -7,11 +7,15 @@ title: Chăm sóc trước phẫu thuật
 Là bước quan trọng giúp giảm thiểu nguy cơ biến chứng trong và sau phẫu thuật, đảm bảo cuộc phẫu thuật diễn ra an toàn và thuận lợi nhất cho người bệnh. 
 
 Người bệnh được bác sĩ gây mê khám tiền mê đánh giá toàn diện chức năng các cơ quan cũng như khả năng chịu đựng cuộc phẫu thuật, đồng thời kết hợp điều trị các bệnh lý phối hợp ( tim mạch, huyết áp, tiểu đường, hô hấp, dinh dưỡng…),  bổ sung xét nghiệm, dự trù máu, quyết định phương pháp gây mê, giảm đau sau mổ. 
+
 Người bệnh được cung cấp các thông tin về bệnh kèm theo như là tiền sử dị ứng, hen xuyễn, huyết áp, ĐTĐ, có tiền sử phẫu thuật lần nào chưa, các thuốc đang sử dụng,…
+
 Nhân viên y tế (Bác sĩ, điều dưỡng...) sẽ giải thích về phương pháp gây tê, gây mê, phương pháp giảm đau sẽ áp dụng cho người bệnh, các điểm chú ý cần phối hợp của người bệnh cũng như nguy cơ có thể xảy ra.
 
 # 2. Thủ tục pháp lý thực hiện trước phẫu thuật:
-Sau khi được cung cấp đầy đủ thông tin về phẫu thuật, người bệnh sẽ ký cam kết chấp thuận cho bác sĩ thực hiện phẫu thuật điều trị theo kế hoạch.Tùy vào tính chất phẫu thuật, người bệnh có thể được yêu cầu ký cam kết, thủ tục cần thiết bao gồm cả nghĩa vụ tài chính. Người dưới 18 tuổi phải có cha mẹ hoặc người giám hộ ký vào những cam kết chấp thuận nói trên.
+Sau khi được cung cấp đầy đủ thông tin về phẫu thuật, người bệnh sẽ ký cam kết chấp thuận cho bác sĩ thực hiện phẫu thuật điều trị theo kế hoạch.
+
+Tùy vào tính chất phẫu thuật, người bệnh có thể được yêu cầu ký cam kết, thủ tục cần thiết bao gồm cả nghĩa vụ tài chính. Người dưới 18 tuổi phải có cha mẹ hoặc người giám hộ ký vào những cam kết chấp thuận nói trên.
 
 # 3. Chăm sóc da và dặn dò trước phẫu thuật:
 - Giữ da sạch sẽ: nên tắm rửa toàn thân trong vòng 24 giờ trước khi phẫu thuật, tốt nhất vào buổi sáng ngày phẫu thuật. Sử dụng xà phòng chứa chlorhexidine gluconate (CHG) 2–4% hoặc các dung dịch sát khuẩn tương đương làm sạch các vùng da cần phẫu thuật, đảm bảo không để lại cặn xà phòng hoặc chất tẩy rửa trên da.
