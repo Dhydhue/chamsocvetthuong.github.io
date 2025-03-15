@@ -40,7 +40,7 @@ Chế độ dinh dưỡng sau phẫu thuật hút áp lực âm vết thương p
 
 •	**Khuyến cáo**: Bệnh nhân cần bổ sung khoảng **1,5-2g protein/kg trọng lượng cơ thể mỗi ngày**.
 
-  !(/assets/img/D.png)
+   !(/assets/img/D.png)
   
 ## 2. Vitamin và khoáng chất
 •	**Vitamin C**: Hỗ trợ tổng hợp collagen và tăng cường miễn dịch. Vitamin C có nhiều trong cam, quýt, kiwi, dâu tây, ớt chuông và rau xanh.
@@ -51,8 +51,8 @@ Chế độ dinh dưỡng sau phẫu thuật hút áp lực âm vết thương p
 
 •	**Vitamin D**: Giúp duy trì sức khỏe xương khớp và hỗ trợ miễn dịch. Vitamin D có trong ánh sáng mặt trời, cá hồi, cá ngừ, và thực phẩm bổ sung vitamin D.
 
-   !(/assets/img/RQ.png)
-   
+!(/assets/img/RQ.png)
+ 
 ## 3. Chất béo
 •	**Tầm quan trọng**: Chất béo giúp cung cấp năng lượng, hỗ trợ hấp thu vitamin tan trong dầu (A, D, E, K) và duy trì sức khỏe tế bào.
 
