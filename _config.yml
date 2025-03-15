@@ -11,13 +11,13 @@
 
 # Name of website
 title: CHĂM SÓC VẾT THƯƠNG
-cover-img: /assets/img/k1.jpg
-thumbnail-img: /assets/img/k1.jpg
-share-img: /assets/img/k1.jpg
+cover-img: "/assets/img/k1.jpg"
+thumbnail-img: "/assets/img/k1.jpg"
+share-img: "/assets/img/k1.jpg"
 
 
 # Your name to show in the footer
-author: Khoa Dieu Duong
+author: Khoa Điều Dưỡng
 
 ###############################################
 # --- List of links in the navigation bar --- #
