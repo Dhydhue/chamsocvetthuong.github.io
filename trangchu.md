@@ -25,5 +25,5 @@ Phương pháp này có tác dụng chính là cải thiện lưu lượng tư�
 
 ### video
 
-Cơ chế hoạt động của liệu pháp hút áp lực âm [xem video](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29)
+Cơ chế hoạt động của liệu pháp hút áp lực âm [xem video](https://www.youtube.com/watch?v=mm77mbiQPqk)
 
