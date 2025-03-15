@@ -42,8 +42,6 @@ Người bệnh và người nhà cập nhật thông tin điều trị và các
 
 # QUY TRÌNH HƯỚNG DẪN XUẤT VIỆN
 
-![Quy trình xuất viện](/assets/img/L1.png)
-
 ## 1. Kiểm tra tình trạng sức khỏe trước khi xuất viện
 - Bác sĩ khám, đánh giá toàn trạng người bệnh.
 - Xác nhận người bệnh đủ điều kiện xuất viện.
@@ -61,6 +59,8 @@ Người bệnh và người nhà cập nhật thông tin điều trị và các
     + Hướng dẫn người bệnh, người nhà các thủ tục khác khi người bệnh, người nhà có yêu cầu.
           
 - Người bệnh rời bệnh viện và tiếp tục theo dõi sức khỏe tại nhà theo chỉ định của bác sĩ và hướng dẫn của điều dưỡng.
+
+  ![Quy trình xuất viện](/assets/img/L1.png)
 
 
 
