@@ -11,8 +11,8 @@
 
 # Name of website
 title: CHĂM SÓC VẾT THƯƠNG
-cover-img: "/assets/img/k1.jpg"
-thumbnail-img: "/assets/img/k1.jpg"
+cover-img: "assets/img/k1.jpg"
+thumbnail-img: "assets/img/k1.jpg"
 
 
 # Your name to show in the footer
@@ -58,10 +58,10 @@ round-avatar: true
 social-network-links:
   email: "htttrang.humed@hueuni.edu.vn"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: 
-  github: 
-  youtube: 
-  whatsapp: 
+#  facebook: 
+#  github: 
+#  youtube: 
+#  whatsapp: 
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
 #  linkedin: daattali
