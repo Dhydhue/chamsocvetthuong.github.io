@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: CHAM SOC VET THUONG
+title: CHĂM SÓC VẾT THƯƠNG
 
 # Your name to show in the footer
 author: Khoa Dieu Duong
@@ -20,11 +20,12 @@ author: Khoa Dieu Duong
 ###############################################
 
 navbar-links:
-  Home: "trangchu"
+  Trang chủ: "trangchu"
   Liệu pháp phút áp lực âm: "lieuphaphutam"
   Chăm sóc:
     - Chăm sóc trước phẫu thuật: "cstruocphauthuat"
     - Chăm sóc sau phẫu thuật: "cssauphauthuat"
+    - Chăm sóc tại nhà: "chamsocvetthuongtainha"
   Câu hỏi thường gặp: "cauhoithuonggap"
 
 ################
@@ -33,7 +34,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/nurse.png"
+avatar: "/assets/img/k1.jpg"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
@@ -53,22 +54,20 @@ round-avatar: true
 social-network-links:
   email: "htttrang.humed@hueuni.edu.vn"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: "@daattali"
-  whatsapp: 15551212
+  facebook: 
+  github: 
+  youtube: 
+  whatsapp: 
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
 #  linkedin: daattali
 #  xing: yourname
-#  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
-#  instagram: deanat78
+#  stackoverflow: 
+#  snapchat: 
+#  instagram: 
 #  spotify: yourname
-#  telephone: +14159998888
-#  steam: deanat78
+#  telephone: 
+#  steam: 
 #  twitch: yourname
 #  yelp: yourname
 #  telegram: yourname
