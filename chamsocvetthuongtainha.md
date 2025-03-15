@@ -1,9 +1,6 @@
 ---
 layout: post
 title: Chăm sóc vết thương tại nhà
-cover-img: /assets/img/k1.jpg
-thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/k1.jpg
 ---
 
 Chăm sóc vết thương tại nhà đúng cách giúp vết thương nhanh lành, giảm nguy cơ nhiễm trùng và để lại sẹo. 
