@@ -44,15 +44,15 @@ Quy trình của liệu pháp hút áp lực âm [xem video](https://www.youtube
 - Vệ sinh và kiểm tra ống hút thường xuyên để tránh tắc nghẽn và tích tụ dịch.
 - Tránh làm ướt hệ thống khi tắm, nên sử dụng túi bảo vệ hoặc làm theo hướng dẫn của nhân viên y tế.
 
-![Cách đặt máy hút áp lực âm đúng](/assets/img/datmaydung.jpg)
+![Cách đặt máy hút áp lực âm đúng](/assets/img/datmaydung.png)
 
-![Cách đặt máy hút áp lực âm sai](/assets/img/datmaysai.jpg)
+![Cách đặt máy hút áp lực âm sai](/assets/img/datmaysai.png)
 
 # Nhận biết hệ thống cảnh báo của máy hút áp lực âm?
 
 Hệ thống cảnh báo của máy hút áp lực âm là một phần quan trọng giúp đảm bảo an toàn và hiệu quả trong quá trình điều trị.
  
-![Màn hình của máy hút áp lực âm](/assets/img/manhinh)
+![Màn hình của máy hút áp lực âm](/assets/img/manhinh.png)
 
 
 **Dưới đây là các cách nhận biết và hiểu về hệ thống cảnh báo của máy hút áp lực âm:**
@@ -60,29 +60,29 @@ Hệ thống cảnh báo của máy hút áp lực âm là một phần quan tr�
 ## Cảnh báo đầy bình chứa dịch: 
 Khi bình chứa dịch đã đầy, cần thay thế hoặc đổ dịch theo hướng dẫn của nhân viên y tế.
 
-![Cảnh báo đầy bình chứa dịch](/assets/img/tuiday)
+![Cảnh báo đầy bình chứa dịch](/assets/img/tuiday.png)
 
 ## Cảnh báo lỗi hệ thống chưa đóng/ bị khóa/ bị rò rỉ 
 
-![Cảnh báo hệ thống chưa đóng](/assets/img/chuadong.)
+![Cảnh báo hệ thống chưa đóng](/assets/img/chuadong.png)
 
-![Cảnh báo hệ thống bị khóa](/assets/img/bikhoa)
+![Cảnh báo hệ thống bị khóa](/assets/img/bikhoa.png)
 
-![Cảnh báo hệ thống bị rò rỉ](/assets/img/rori)
+![Cảnh báo hệ thống bị rò rỉ](/assets/img/rori.png)
 
 ## Cảnh báo lỗi nguồn điện: 
 Kiểm tra nguồn cắm điện hoặc pin của máy, đảm bảo máy luôn hoạt động ổn định.
 
-![Cảnh báo pin yếu](/assets/img/pinyeu)
+![Cảnh báo pin yếu](/assets/img/pinyeu.png)
 
-![Cảnh báo hết pin](/assets/img/hetpin)
+![Cảnh báo hết pin](/assets/img/hetpin.png)
 
 ## Cảnh báo khác: 
 Nếu máy phát ra tín hiệu cảnh báo mà bạn không xác định được nguyên nhân, hãy liên hệ với nhân viên y tế để được hỗ trợ.
 
-![Cảnh báo treo máy](/assets/img/treomay)
+![Cảnh báo treo máy](/assets/img/treomay.png)
 
-![Cảnh báo lỗi bên trong máy](/assets/img/loitrongmay)
+![Cảnh báo lỗi bên trong máy](/assets/img/loitrongmay.png)
 
 # Những lưu ý quan trọng khi sử dụng liệu pháp hút áp lực âm
 
