@@ -29,7 +29,7 @@ navbar-links:
   Chăm sóc:
     - Chăm sóc trước phẫu thuật: "cstruocphauthuat"
     - Chăm sóc sau phẫu thuật: "cssauphauthuat"
-    - Chăm sóc tại nhà: "chamsocvetthuongtainha"
+    - Chăm sóc tại nhà: "cstainha"
   Câu hỏi thường gặp: "cauhoithuonggap"
 
 ################
@@ -305,6 +305,6 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
 
-# Beautiful Jekyll / Dean Attali
+# 
 # 2fc73a3a967e97599c9763d05e564189
 
