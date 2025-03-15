@@ -7,7 +7,11 @@ title: Câu hỏi thường gặp
 Thời gian sử dụng liệu pháp hút áp lực âm phụ thuộc vào loại vết thương, mức độ nghiêm trọng và khả năng hồi phục của cơ thể. Nhân viên y tế sẽ đánh giá tình trạng cụ thể để đưa ra phác đồ điều trị phù hợp.
 
 # Cảm giác khi sử dụng liệu pháp hút áp lực âm như thế nào?
-Hầu hết bệnh nhân chỉ cảm thấy lực hút nhẹ tại vết thương và thường không còn nhận thấy sau khoảng 15 phút. Khi vết thương lành, có thể xuất hiện cảm giác nhói nhẹ hoặc ngứa, đây thường là dấu hiệu tích cực. Tuy nhiên, nếu cảm giác khó chịu kéo dài, hãy liên hệ ngay với nhân viên y tế.
+Hầu hết bệnh nhân chỉ cảm thấy lực hút nhẹ tại vết thương và thường không còn nhận thấy sau khoảng 15 phút. 
+
+Khi vết thương lành, có thể xuất hiện cảm giác nhói nhẹ hoặc ngứa, đây thường là dấu hiệu tích cực. 
+
+Tuy nhiên, nếu cảm giác khó chịu kéo dài, hãy liên hệ ngay với nhân viên y tế.
 
 # Tôi cần duy trì hệ thống máy hút áp lực âm hoạt động bao nhiêu giờ mỗi ngày?
 Hệ thống máy hút áp lực âm thường cần hoạt động liên tục 24 giờ mỗi ngày để đạt hiệu quả tối ưu. Tuy nhiên, thời gian cụ thể có thể do nhân viên y tế chỉ định tùy theo tình trạng vết thương. Nếu cần tạm ngừng, hãy tham khảo ý kiến nhân viên y tế để đảm bảo an toàn. 
@@ -22,7 +26,11 @@ Việc thay băng vết thương có thể gây cảm giác khó chịu hoặc �
 Khi hệ thống vận hành, băng vết thương có thể co lại hoặc nhăn nhẹ, điều này là bình thường.
 
 # Liệu pháp hút áp lực âm có an toàn không?
-Liệu pháp hút áp lực âm là một phương pháp điều trị an toàn và hiệu quả khi được sử dụng đúng cách và dưới sự giám sát của nhân viên y tế. Tuy nhiên, như bất kỳ liệu pháp nào, nó có thể có một số rủi ro hoặc tác dụng phụ, bao gồm nhiễm trùng, tổn thương da hoặc gây ra cảm giác khó chịu. Để đảm bảo an toàn, việc theo dõi và tuân thủ đúng chỉ định của nhân viên y tế là rất quan trọng. Nếu Ông/bà gặp phải bất kỳ vấn đề nào trong quá trình điều trị, hãy liên hệ ngay với nhân viên y tế để được tư vấn và điều chỉnh kịp thời.
+Liệu pháp hút áp lực âm là một phương pháp điều trị an toàn và hiệu quả khi được sử dụng đúng cách và dưới sự giám sát của nhân viên y tế. Tuy nhiên, như bất kỳ liệu pháp nào, nó có thể có một số rủi ro hoặc tác dụng phụ, bao gồm nhiễm trùng, tổn thương da hoặc gây ra cảm giác khó chịu.
+
+Để đảm bảo an toàn, việc theo dõi và tuân thủ đúng chỉ định của nhân viên y tế là rất quan trọng. 
+
+Nếu Ông/bà gặp phải bất kỳ vấn đề nào trong quá trình điều trị, hãy liên hệ ngay với nhân viên y tế để được tư vấn và điều chỉnh kịp thời.
 
 # Tôi có thể vận động không?
 Có! Mục tiêu của liệu pháp hút áp lực âm là giúp bệnh nhân duy trì vận động nhiều nhất có thể. Tuy nhiên, mức độ vận động phụ thuộc vào vị trí vết thương và hướng dẫn của nhân viên y tế. Hãy tham khảo ý kiến của nhân viên y tế về các bài tập phù hợp.
@@ -41,16 +49,13 @@ Có thể tắm rửa, việc tắm rửa cần được thực hiện đúng c�
 1. Đóng kẹp ống trên ống túi tiết dịch và ống thoát nước.
    
 2. Chuyển liệu pháp sang chế độ Tạm dừng.
-   
-    "/assets/img/T1.png"
+   ![Tạm dừng](/assets/img/T1.png)
    
 3. Ngắt kết nối hai ống và để thiết bị bên cạnh giường trong khi tắm.
    
 4. Sau khi tắm, kết nối lại hai ống.
-   
-    "/assets/img/T2.png"
-   
-    "/assets/img/T3.png"
+    ![Kết nối](/assets/img/T2.png)  
+ ![Kết nối](/assets/img/T3.png)
    
 5. Bắt đầu lại liệu pháp bằng cách: Nếu dừng liệu pháp một khoảng thời gian, màn hình Là khóa. Để mở khóa, hãy nhấn nút mở cho đến khi nút mở khóa xuất hiện. Sau đó, có thể chuyển đổi liệu pháp nhấn vào nút tạm dừng để tiếp tục sử dụng. 
 
