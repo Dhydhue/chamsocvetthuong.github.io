@@ -40,12 +40,15 @@ Có thể tắm rửa, việc tắm rửa cần được thực hiện đúng c�
 - Trước khi tắm rửa, cần đảm bảo:
 1. Đóng kẹp ống trên ống túi tiết dịch và ống thoát nước.
 2. Chuyển liệu pháp sang chế độ Tạm dừng.
+   
     "/assets/img/T1.png"
-3. Ngắt kết nối hai ống và để thiết bị bên cạnh giường trong khi tắm.
-4. Sau khi tắm, kết nối lại hai ống.
+4. Ngắt kết nối hai ống và để thiết bị bên cạnh giường trong khi tắm.
+5. Sau khi tắm, kết nối lại hai ống.
+   
     "/assets/img/T2.png"
+   
     "/assets/img/T3.png"
-5. Bắt đầu lại liệu pháp bằng cách: Nếu dừng liệu pháp một khoảng thời gian, màn hình Là khóa. Để mở khóa, hãy nhấn nút mở cho đến khi nút mở khóa xuất hiện. Sau đó, có thể chuyển đổi liệu pháp nhấn vào nút tạm dừng để tiếp tục sử dụng. 
+7. Bắt đầu lại liệu pháp bằng cách: Nếu dừng liệu pháp một khoảng thời gian, màn hình Là khóa. Để mở khóa, hãy nhấn nút mở cho đến khi nút mở khóa xuất hiện. Sau đó, có thể chuyển đổi liệu pháp nhấn vào nút tạm dừng để tiếp tục sử dụng. 
 
 ### Nếu lỡ tắt máy, thì làm thế nào?
 Nếu vô tình nhấn nút TẮT, chỉ cần nhấn lại nút đó để bật máy lên. Hệ thống sẽ tự động khôi phục lại các cài đặt ban đầu và tiếp tục liệu pháp.
