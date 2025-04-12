@@ -62,7 +62,7 @@ Người bệnh và người nhà cập nhật thông tin điều trị và các
           
 - Người bệnh rời bệnh viện và tiếp tục theo dõi sức khỏe tại nhà theo chỉ định của bác sĩ và hướng dẫn của điều dưỡng.
 
-  ![Quy trình xuất viện](/assets/img/L1.png)
+  ![Quy trình xuất viện](https://github.com/Dhydhue/chamsocvetthuong.github.io/blob/6024289351a958303dbfcee61f278bdb764f16d1/assets/img/L1.png)
 
 
 
