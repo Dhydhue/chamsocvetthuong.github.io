@@ -39,7 +39,8 @@ author:
 Người bệnh được theo dõi và điều trị theo phác đồ của bác sĩ.
 Điều dưỡng chăm sóc, hướng dẫn sinh hoạt trong thời gian nằm viện.
 Người bệnh và người nhà cập nhật thông tin điều trị và các chỉ định từ bác sĩ.
-![Quy trình nhập viện](/assets/img/L2.png)
+
+![Quy trình nhập viện]({{ "/assets/img/L2.png" | relative_url }})
 
 # QUY TRÌNH HƯỚNG DẪN XUẤT VIỆN
 
@@ -60,7 +61,9 @@ Người bệnh và người nhà cập nhật thông tin điều trị và các
     + Hướng dẫn người bệnh, người nhà các thủ tục khác khi người bệnh, người nhà có yêu cầu.
           
 - Người bệnh rời bệnh viện và tiếp tục theo dõi sức khỏe tại nhà theo chỉ định của bác sĩ và hướng dẫn của điều dưỡng.
-  ![Quy trình xuất viện](/assets/img/L1.png)
+ 
+  ![Quy trình xuất viện]({{ "/assets/img/L1.png" | relative_url }})
+  
 
 
 
