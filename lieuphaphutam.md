@@ -36,7 +36,7 @@ Phương pháp này thường được áp dụng cho các loại vết thương
 
 Quy trình của liệu pháp hút áp lực âm [xem video](https://www.youtube.com/watch?v=MnOBIX7KHec)
 
-# Cách chăm sóc hệ thống hút áp lực âm?
+# Phương pháp chăm sóc hệ thống hút áp lực âm?
 - Kiểm tra hệ thống hút áp lực âm hàng ngày để đảm bảo máy hoạt động đúng cách, không bị rò rỉ hoặc tắc nghẽn.
 - Đảm bảo băng dán luôn kín để duy trì áp lực hút hiệu quả, tránh không khí lọt vào gây ảnh hưởng đến quá trình điều trị.
 - Theo dõi lượng dịch hút ra: Nếu có sự thay đổi đột ngột về màu sắc, mùi hoặc lượng dịch, cần báo ngay cho nhân viên y tế.
