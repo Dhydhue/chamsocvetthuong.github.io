@@ -7,9 +7,7 @@ share-img: /assets/img/path.jpg
 ---
 # Biến chứng bàn chân do đái tháo đường (còn gọi là bàn chân đái tháo đường) 
 là một trong những biến chứng nguy hiểm nhất của bệnh tiểu đường, có thể dẫn đến loét, nhiễm trùng nặng và thậm chí phải cắt cụt chi nếu không được điều trị kịp thời.
-
 ![Bàn chân đáo tháo đường](/assets/img/bcdtd.png)
-
 ## Nguyên nhân gây ra biến chứng bàn chân do đái tháo đường: chủ yếu do hai nguyên nhân chính:
 - Bệnh lý thần kinh do đái tháo đường: 
 Làm giảm biên độ vận động khớp và biến dạng bàn chân.
