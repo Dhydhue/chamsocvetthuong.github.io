@@ -32,6 +32,8 @@ Rửa tay sạch bằng xà phòng và nước hoặc sử dụng dung dịch s�
 - Theo dõi các dấu hiệu nhiễm trùng như đỏ, sưng, mủ, hoặc có mùi hôi. 
 - Chú ý đến quá trình lành vết thương, nếu vết thương không lành hoặc có dấu hiệu bất thường, cần tái khám ngay ( có thể liên hệ với bác sỹ).
 
+![hình ảnh vết thương nhiễm trùng](/assets/img/vt.png)
+
 # Duy trì vệ sinh vùng xung quanh vết thương
 - Làm sạch vùng da xung quanh vết thương bằng nước sạch và xà phòng nhẹ để tránh nhiễm trùng từ khu vực ngoài.
   
