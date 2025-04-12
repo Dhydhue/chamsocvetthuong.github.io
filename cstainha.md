@@ -15,6 +15,8 @@ Dưới đây là quy trình chi tiết để chăm sóc vết thương tại nh
 - Kéo sạch.
 - Găng tay y tế (nếu có).
 
+![dụng cụ rửa vết thương](/assets/img/dcvt.png)
+
 ## Vệ sinh tay: 
 Rửa tay sạch bằng xà phòng và nước hoặc sử dụng dung dịch sát khuẩn tay trước khi tiếp xúc với vết thương.
 
