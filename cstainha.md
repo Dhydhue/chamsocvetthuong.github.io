@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Chăm sóc tại nhà
+title: Chăm sóc vết thương tại nhà
 ---
 
 **Chăm sóc vết thương tại nhà** đúng cách giúp vết thương nhanh lành và giảm nguy cơ nhiễm trùng.
