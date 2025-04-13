@@ -31,7 +31,7 @@ Bài tập vận động [xem video và thực hành](https://www.youtube.com/wa
 
 Bài tập vận động [xem video và thực hành](https://www.youtube.com/watch?v=AdfCXTtCVTk)
 
-# Chế độ dinh dưỡng sau phẫu thuật: 
+# Chế độ dinh dưỡng sau phẫu thuật
 Chế độ dinh dưỡng sau phẫu thuật hút áp lực âm vết thương phần mềm là rất quan trọng để hỗ trợ quá trình hồi phục vết thương và giảm thiểu nguy cơ nhiễm trùng. Dưới đây là các yếu tố dinh dưỡng chính mà người bệnh cần chú ý sau phẫu thuật hút áp lực âm:
 ## 1. Protein
 •	**Tầm quan trọng**: Protein đóng vai trò quan trọng trong việc tái tạo mô và hình thành collagen, một yếu tố quan trọng trong quá trình lành vết thương.
